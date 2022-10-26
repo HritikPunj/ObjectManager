@@ -1,7 +1,5 @@
 /*
  * ObjectManager.h
- * COMP2160 Programming Practices
- *
  * Object Manager header file
  */
 

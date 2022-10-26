@@ -1,10 +1,4 @@
 //-----------------------------------------
-// NAME: Hritik Punj
-// STUDENT NUMBER: 007923452
-// COURSE: COMP 2160, SECTION: A01
-// INSTRUCTOR: Mehdi Niknam
-// ASSIGNMENT: Assignment 4
-//
 // PURPOSE: This program contains the implementation of the object manager. This program uses linked list to
 //          keep track of existing objects. It clears the objects no longer required and makes space for new objects
 //          I use one buffer at a time, while making the buffer compact we allocate memory for new buffer and after

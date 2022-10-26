@@ -1,10 +1,4 @@
-//-----------------------------------------
-// NAME: Hritik Punj
-// STUDENT NUMBER: 007923452
-// COURSE: COMP 2160, SECTION: A01
-// INSTRUCTOR: Mehdi Niknam
-// ASSIGNMENT: Assignment 4
-//
+//--------------------------------------
 // PURPOSE: This program contains the test set for checking the functionality of object manager
 //-----------------------------------------
  
